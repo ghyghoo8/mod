@@ -1,9 +1,9 @@
 common
 |
-|-- 翻页 page-mod
+|-- page-mod
 |
-|-- 按钮 button-mod
+|-- button-mod
 |
-|-- 通知 announce-mod
+|-- announce-mod
 |
-|-- 提示 tips-mod
+|-- tips-mod
