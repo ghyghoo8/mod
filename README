@@ -1,9 +1,9 @@
 common
-|
-|-- page-mod
-|
-|-- button-mod
-|
-|-- announce-mod
-|
-|-- tips-mod
+  |
+  |-- page-mod
+  |
+  |-- button-mod
+  |
+  |-- announce-mod
+  |
+  |-- tips-mod
